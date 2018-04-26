@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="arm-none-eabi-gcc noversion nomachine -mcpu=cortex-m0 -mthumb -Wall -ffunction-sections -g -O0 -c -DNUC140VE3CN -IE:\Tugas\UI\SEM 4 -IE:\Tugas\UI\SEM 4\sbk\Proyek akhir\cmsis_boot -IE:\Tugas\UI\SEM 4\sbk\Proyek akhir\cmsis_lib\Include\Driver -IE:\Tugas\UI\SEM 4\sbk\Proyek akhir -I..\..\..\..\..\Nuvoton\BSP Library\NUC100SeriesBSP_CMSIS_v1.05.003\NuvotonPlatform_Keil\Include -IE:\Tugas\UI\SEM 4\sbk\Proyek akhir\cmsis_lib\Include\System -IE:\Tugas\UI\SEM 4\sbk\Proyek akhir\cmsis_lib -I..\..\..\..\..\Nuvoton\BSP Library\NUC100SeriesBSP_CMSIS_v1.05.003\NuvotonPlatform_Keil\Include\NUC1xx-LB_002 -IE:\Tugas\UI\SEM 4\sbk -IE:\Tugas\UI\SEM 4\sbk\Proyek akhir\cmsis_lib\Include -I..\..\..\..\..\Nuvoton\BSP Library\NUC100SeriesBSP_CMSIS_v1.05.003\NuvotonPlatform_Keil -IE:\Tugas\UI\SEM 4\sbk\Proyek akhir\cmsis_core">
+      <target file="LCD_Driver.o" lastModified="15c20092cb0">
+         <source file="C:\Nuvoton\BSP Library\NUC100SeriesBSP_CMSIS_v1.05.003\NuvotonPlatform_Keil\Src\NUC1xx-LB_002\LCD_Driver.c" lastModified="136156c5920"/>
+      </target>
+      <target file="DrvADC.o" lastModified="15c20092c24">
+         <source file="..\..\..\cmsis_lib\Src\Driver\DrvADC.c" lastModified="15bf137c36e"/>
+      </target>
+      <target file="startup_NUC1xx.o" lastModified="15c200927b9">
+         <source file="..\..\..\cmsis_boot\startup\startup_NUC1xx.c" lastModified="15bf137c35e"/>
+      </target>
+      <target file="DrvGPIO.o" lastModified="15c20092a76">
+         <source file="..\..\..\cmsis_lib\Src\Driver\DrvGPIO.c" lastModified="15bf137c34f"/>
+      </target>
+      <target file="Seven_Segment.o" lastModified="15c200929c2">
+         <source file="C:\Nuvoton\BSP Library\NUC100SeriesBSP_CMSIS_v1.05.003\NuvotonPlatform_Keil\Src\NUC1xx-LB_002\Seven_Segment.c" lastModified="15b8f7ffe44"/>
+      </target>
+      <target file="DrvSYS.o" lastModified="15c20092b20">
+         <source file="..\..\..\cmsis_lib\Src\Driver\DrvSYS.c" lastModified="15bf137c36e"/>
+      </target>
+      <target file="main.o" lastModified="15c201cffa5">
+         <source file="..\..\..\main.c" lastModified="15c201cf586"/>
+      </target>
+      <target file="DrvSPI.o" lastModified="15c200928e6">
+         <source file="..\..\..\cmsis_lib\Src\Driver\DrvSPI.c" lastModified="15bf137c37e"/>
+      </target>
+      <target file="system_NUC1xx.o" lastModified="15c20092773">
+         <source file="..\..\..\cmsis_boot\system_NUC1xx.c" lastModified="15bf137c35e"/>
+      </target>
+      <target file="core_cm0.o" lastModified="15c20092cf6">
+         <source file="..\..\..\cmsis_core\core_cm0.c" lastModified="15bf137c35e"/>
+      </target>
+      <target file="Init.o" lastModified="15c20092828">
+         <source file="..\..\..\Init.c" lastModified="15bf137c4b6"/>
+      </target>
+      <target file="Ascii_Table.o" lastModified="15c20092b84">
+         <source file="C:\Nuvoton\BSP Library\NUC100SeriesBSP_CMSIS_v1.05.003\NuvotonPlatform_Keil\Src\NUC1xx-LB_002\Ascii_Table.C" lastModified="136156c5920"/>
+      </target>
+   </processor>
+</history>
